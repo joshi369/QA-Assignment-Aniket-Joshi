@@ -1,0 +1,27 @@
+{
+   "chromeWebSecurity":false,
+   "env":{
+      "Add_Computer":"COMP001",
+      "Invalid_Search_Key":"Invalid_Search_Key",
+      "Valid_Search_Key":"ASCI",
+      "Add_Computer_Name":"11SEPT_ADDCOMP_001",
+      "Add_Computer_Name1":"11SEPT_ADDECOMP_001",
+      "Add_Computer_Name2":"11SEPT_ADDECOMP_003",
+      "Add_Computer_Name_ForDelete":"11SEPT_ADDDELCOMP_001",
+      "Add_Computer_Name_ForInvalidDelete":"11SEPT_ADDINV_DELCOMP_001",
+      "Add_Computer_Name_ForInvalidCancel":"11SEPT_ADDINV_CANCELCOMP_001",
+      "Valid_Introduced_Date":"2021-09-01",
+      "Valid_Discontinued_Date":"2021-09-11",
+      "Valid_Introduced_Date_ForEdit":"2021-08-01",
+      "Valid_Discontinued_Date_ForEdit":"2021-08-11",
+      "Invalid_Introduced_Date":"9999-99-99",
+      "Invalid_Discontinued_Date":"9999-99-99",
+     
+   },
+   "reporter":"../node_modules/mochawesome/src/mochawesome.js",
+   "reporterOptions":{
+      "overwrite":false,
+      "html":false,
+      "json":true
+   }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cypresstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aniket",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.3.1",
+    "cypress-xpath": "^1.6.2",
+    "mocha": "^9.1.1",
+    "mochawesome": "^6.2.2",
+    "mochawesome-merge": "^4.2.0",
+    "mochawesome-report-generator": "^5.2.0"
+  }
+
+}
